@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "dreamcore",
+			"Path": "..\\Source\\dreamcore.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "dreamcoreEditor",
+			"Path": "..\\Source\\dreamcoreEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

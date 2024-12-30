@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-dreamcore.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal\dreamcore\Intermediate\Build\Win64\x64\dreamcoreEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\unreal\dreamcore\Intermediate\Build\Win64\x64\UnrealEditor\Development\dreamcore\dreamcore.cpp.obj"
+"D:\unreal\dreamcore\Intermediate\Build\Win64\x64\UnrealEditor\Development\dreamcore\Default.rc2.res"
+/OUT:"D:\unreal\dreamcore\Intermediate\Build\Win64\x64\UnrealEditor\Development\dreamcore\UnrealEditor-dreamcore.lib"

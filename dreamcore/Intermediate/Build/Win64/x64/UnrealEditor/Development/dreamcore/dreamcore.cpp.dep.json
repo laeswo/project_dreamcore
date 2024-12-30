@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\dreamcore\\source\\dreamcore\\dreamcore.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\dreamcore\\intermediate\\build\\win64\\x64\\dreamcoreeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\dreamcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamcore\\definitions.dreamcore.h",
+            "d:\\unreal\\dreamcore\\source\\dreamcore\\dreamcore.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
