@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\unreal\\dreamcore\\Source\\dreamcore\\dreamcore.Build.cs",
-		"D:\\unreal\\dreamcore\\Source\\dreamcore.Target.cs",
-		"D:\\unreal\\dreamcore\\Source\\dreamcoreEditor.Target.cs"
-	],
-	"EngineVersion": "5.4.4"
-}
